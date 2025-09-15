@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 <h1 align="center">Hi 👋, I'm AshwiniRatod</h1>
 <h3 align="center">🚀 Passionate about Machine Learning, AI & Full-Stack Development</h3>
 
